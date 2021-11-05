@@ -4,3 +4,8 @@ h1 {
     color: pink;
     font-family: 'Fruktur', cursive;
 }
+
+.hero {
+    height: 75vh;
+    background: url("images/texture1.jpeg");
+}
